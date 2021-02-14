@@ -1,0 +1,13 @@
+@media (max-aspect-ratio: 1/1) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .container > div {
+        width: 90%;
+        border: none;
+        margin: 1em 0;
+    }
+    
+}
