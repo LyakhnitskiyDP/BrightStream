@@ -22,7 +22,7 @@ Simple task management web application built on Servlets and JSP.
   * Downloading full log of tasks in XLSX format
 
 ### Showcase
-![slide_1](src/main/webapp/images/showcase/showase_1.png)
+![slide_1](src/main/webapp/images/showcase/showcase_1.png)
 ![slide_2](src/main/webapp/images/showcase/showcase_2.png)
 ![slide_3](src/main/webapp/images/showcase/showcase_3.png)
 ![slide_4](src/main/webapp/images/showcase/showcase_4.png)
