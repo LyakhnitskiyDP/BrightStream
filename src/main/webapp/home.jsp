@@ -1,11 +1,6 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib uri = "http://java.sun.com/jsp/jstl/functions" prefix = "fn" %>
-<%@page import="java.util.stream.Collectors"%>
-<%@page import="com.lod.brightstream.BE.User"%>
-<%@page import="com.lod.brightstream.DAL.TaskDAMySQL"%>
-<%@page import="com.lod.brightstream.DAL.TaskDA"%>
-<%@page import="java.util.List"%>
-<%@page import="com.lod.brightstream.BE.Task"%>
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

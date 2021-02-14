@@ -18,7 +18,7 @@ public class ConnectionPool {
         } catch (ClassNotFoundException classException) {
             System.err.println(classException);
         }
-        ds.setUrl("jdbc:mysql://192.168.0.11:3308/brightstream?useUnicode=true&serverTimezone=UTC");
+        ds.setUrl("jdbc:mysql://192.168.0.14:3308/brightstream?useUnicode=true&serverTimezone=UTC");
         ds.setUsername("");
         ds.setPassword("");
         ds.setMinIdle(5);
